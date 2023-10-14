@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWKwiwS+1RQdEwptWQrMS3CWvICeizKGPG3B3SsZE7P+OAILTWWZZKKbRzu3M1p0ovinlTwuX8g0FlDdrhCl2Q==",
+  "success": true,
+  "projectFilePath": "/Users/ivche/Projects/FinalProjectSelenium/FinalProjectSelenium/FinalProjectSelenium.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivche/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/selenium.support/4.10.0/selenium.support.4.10.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/selenium.webdriver/4.10.0/selenium.webdriver.4.10.0.nupkg.sha512",
+    "/Users/ivche/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
