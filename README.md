@@ -26,9 +26,11 @@ Tests :
 5. Confirm both products are in “In stock”
 6. Confirm products are from different brands
 7. Confirm product ”Dolor ad hac torquent” does not have color selection
-- Logout & Close the browser
 
-BONUS [optional]: On Compare Page remove both items. Confirm compare icon number is set to “0” and message “Compare list is empty.” is shown on page.
+BONUS: On Compare Page remove both items. Confirm compare icon number is set to “0” and message “Compare list is empty.” is shown on page.
+
+* The main class is: `UnitTest1.cs`
+* POM classes are: `MyAccount.cs`, `CompareProducts.cs`
 
 
 
