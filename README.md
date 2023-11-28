@@ -5,6 +5,17 @@ all kinds of accessories and products. With a focus on providing an exceptional
 shopping experience for all kinds of enthusiasts and professionals, this online store
 offers a variety of choices.
 
+• The Webshop boasts an extensive catalog featuring the latest products and accessories.
+
+• Customers can easily navigate, search, filter, and sort products to find
+exactly what they need.
+
+• Customers can create and manage accounts, allowing them to save their
+preferences, track order history, and expedite the checkout process.
+
+• An easy-to-use shopping cart allows customers to review and modify their
+orders before proceeding to a secure checkout process.
+
 
 
 Tests : 
